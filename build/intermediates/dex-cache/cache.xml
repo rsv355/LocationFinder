@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-72da1a2d7080763989481ee5471e1afb19584183.jar" />
+    </item>
+    <item
+        jar="D:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-465b1b44bd99dc0679a2b5beab3148adfeaad686.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-335b0ca2f7eff5fde3c3c1eafba2b0b8e7787916.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-b0f5855520831af051cc6ce6c0b6f01b4f6ad5ef.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-4c4b088cf9307b38e32859fa843a520bd1c85bac.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d8e4c1167206ad3cb78439861c9a1efe58fbea04.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-bd1b6cea2749df709d37163768cb61604fea3e42.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-c6fe315187ed9a572b8f7c3d736431caec8372a3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-1f5790ab5e48fe4ea7f2e4f8bcfb54b00c9145c4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-d941413f7a8067413ce655939bc6b3e0d784471d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-fe4841ff56d63cc573231e838dcc9ecb215fc889.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-a504876dab59486f47679ac56f00bca5e30baa70.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-0c577086117d10d43dbbe02d62a342d56392daee.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-ccada977695dfae172371c5ffa4de8d3e2d96f5b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-4ac2ea6d50e907c04571a0709b06fb3750f34170.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-f86d23d64dcd17db71a4d65fc0a2f9216e1c51e1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-1014e7bf1ffb6aa3a0e813f949eb6027cf2b9153.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-27727bb4c690892feddf88adcea9aed2d3d3fbb0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-96fbd72b109a85cf470fb0548ae0c8c071c0c66a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-04d806da9dcd7b6029f69fdbf35b3b8ba578db84.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-08698fc77c8cc3f87fcb83c87802b98c2827c37e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\LocationFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\AndroidProjects\LocationFinder\app\build\intermediates\pre-dexed\debug\classes-76e244465c7bfc6c5e0d1f955ecdf293ad2644e8.jar" />
+    </item>
+
+</items>
