@@ -13,7 +13,7 @@ import android.widget.RelativeLayout;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.app.LocationFinder.R;
+import com.app.searchlocation.R;
 import com.google.android.gms.ads.AdSize;
 import android.view.Gravity;
 import com.google.android.gms.maps.CameraUpdateFactory;

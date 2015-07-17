@@ -6,7 +6,8 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.Menu;
 import android.widget.Toast;
-import com.app.LocationFinder.R;
+
+import com.app.searchlocation.R;
 
 public class SplashActivity extends Activity {
 

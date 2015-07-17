@@ -14,7 +14,7 @@ import android.util.Log;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
-import com.app.LocationFinder.R;
+import com.app.searchlocation.R;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdSize;
 import android.view.Gravity;
@@ -44,10 +44,11 @@ public class Ballon extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+
 		setContentView(R.layout.activity_ballon);
 
 		interstitial = new InterstitialAd(Ballon.this);
-		interstitial.setAdUnitId("ca-app-pub-1878227272753934/1830081603");
+		interstitial.setAdUnitId("ca-app-pub-1878227272753934/9828108009");
 		adRequest1 = new com.google.android.gms.ads.AdRequest.Builder()
 				.build();
 
@@ -64,17 +65,17 @@ public class Ballon extends Activity {
 	}
 
 
-	public void displayInterstitial() {
+	/*public void displayInterstitial() {
 
 		// If Ads are loaded, show Interstitial else show nothing.
 		if (interstitial.isLoaded()) {
 			interstitial.show();
 		}
-	}
+	}*/
 	private void initViews() {
 
 		com.google.android.gms.ads.AdView adView = new com.google.android.gms.ads.AdView(Ballon.this);
-	    adView.setAdUnitId("ca-app-pub-1878227272753934/3870282001");
+	    adView.setAdUnitId("ca-app-pub-1878227272753934/9967708800");
 	    adView.setAdSize(AdSize.BANNER);
 	    RelativeLayout layout = (RelativeLayout)findViewById(R.id.addsho);        
 	    layout.addView(adView);
@@ -168,7 +169,7 @@ public class Ballon extends Activity {
 
 
 
-					new CountDownTimer(1000,5000){
+					/*new CountDownTimer(1000,5000){
 
 						@Override
 						public void onTick(long millisUntilFinished) {
@@ -188,7 +189,7 @@ public class Ballon extends Activity {
 							});
 
 						}
-					}.start();
+					}.start();*/
 
 
 				}

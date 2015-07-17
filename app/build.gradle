@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.app.LocationFinder"
+        applicationId "com.app.searchlocation"
         minSdkVersion 9
         targetSdkVersion 21
     }
