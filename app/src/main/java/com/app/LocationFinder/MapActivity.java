@@ -39,7 +39,7 @@ public class MapActivity extends Activity implements OnClickListener{
 		setContentView(R.layout.activity_map);
 
 		com.google.android.gms.ads.AdView adView = new com.google.android.gms.ads.AdView(MapActivity.this);
-		adView.setAdUnitId("ca-app-pub-1878227272753934/2393548800");
+		adView.setAdUnitId("ca-app-pub-1878227272753934/9967708800");
 		adView.setAdSize(AdSize.BANNER);
 		RelativeLayout layout = (RelativeLayout)findViewById(R.id.addshows);        
 		layout.addView(adView);

@@ -75,7 +75,7 @@ public class Ballon extends Activity {
 	private void initViews() {
 
 		com.google.android.gms.ads.AdView adView = new com.google.android.gms.ads.AdView(Ballon.this);
-	    adView.setAdUnitId("ca-app-pub-1878227272753934/9967708800");
+	    adView.setAdUnitId("ca-app-pub-1878227272753934/8351374804");
 	    adView.setAdSize(AdSize.BANNER);
 	    RelativeLayout layout = (RelativeLayout)findViewById(R.id.addsho);        
 	    layout.addView(adView);
